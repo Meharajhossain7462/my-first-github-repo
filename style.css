@@ -1,0 +1,46 @@
+
+h2{
+    position:middle;
+    color: red;
+
+    
+}
+.main-head{
+    font-size:xx-large;
+    color: rgb(6, 154, 46);
+ text-align: center;
+
+}
+.motivation{
+    text-align: center;
+}
+.india{
+    width: 300px;
+    border: 5px solid green;
+    padding: 10px;
+    margin: 15px;
+    text-align: justify;
+    display: inline-block;
+}
+.Bangladesh{
+    width: 300px;
+    border: 5px solid green;
+    padding: 10px;
+    margin: 15px;
+    text-align: justify;
+    display: inline-block;
+
+}
+.poland{
+    width: 300px;
+    border: 5px solid green;
+    padding: 10px;
+    margin: 15px;
+    text-align: justify;
+    display: inline-block;
+    
+
+}
+h2{
+    text-align: center;
+}
